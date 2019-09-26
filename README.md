@@ -16,5 +16,8 @@ Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/
 ## Käyttöliittymämallinnus
 
 ## Ohjelmointiympäristöt
+Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
+------- | ------------------    | ------------------------------| ----------------------- |
+Visual Studio Code | Koodieditori | https://code.visualstudio.com/ | Microsoftin helppokäyttöinen, ilmainen ja kevyehkö koodieditori, johon saa paljon lisäosia |
 
 ## Testi
