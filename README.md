@@ -16,7 +16,8 @@ Teams   | Keskustelu, kokoukset, tiedostojen muokkaus   |   teams.microsoft.com 
 ## Kommunikaatio
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
 ------- | ------------------    | ------------------------------| ----------------------- |
-Lucidchart   | Tietokantakaaviot, muut kaaviot | https://www.lucidchart.com/| Ilmaisella accountilla voi tehdä vain muutaman kaavion    |
+Lucidchart   | Tietokantakaaviot, muut kaaviot | https://www.lucidchart.com/| Ilmaisella accountilla voi tehdä vain muutaman kaavion   |
+Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   Helppo ja nopea oppia, mutta ei kaunein   |
 
 ## Käyttöliittymämallinnus
 Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
