@@ -38,6 +38,5 @@ Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   H
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
 ------- | ------------------    | ------------------------------| ----------------------- |
 IntelliJ | IDE editori | https://www.jetbrains.com/idea/ | Hyvä koodieditori     |
-
 Visual Studio Code | Koodieditori | https://code.visualstudio.com/ | Microsoftin helppokäyttöinen, ilmainen ja kevyehkö koodieditori, johon saa paljon lisäosia |
 
