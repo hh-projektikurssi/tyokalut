@@ -23,7 +23,6 @@ Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/
 Teams   | Keskustelu, kokoukset, tiedostojen muokkaus   |   teams.microsoft.com   |   Video/äänikokoukset, tiedostojen jako ja muokkaus porukalla   |
 
 ## Kaaviotyökalut
-## Kommunikaatio
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
 ------- | ------------------    | ------------------------------| ----------------------- |
 Lucidchart   | Tietokantakaaviot, muut kaaviot | https://www.lucidchart.com/| Ilmaisella accountilla voi tehdä vain muutaman kaavion   |
@@ -33,6 +32,7 @@ Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
 ------- | --------- | ------ | ------------|
 FluidUI|Käyttöliittymän protoilu|https://www.fluidui.com| OK työkalu käyttöliittymän protoiluun. Osa ominaisuuksista maksumuurin takana (esimerkiksi näkymien lataaminen omalle koneelle, voi ohittaa snippingtoolilla)   |
 Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   Helppo ja nopea oppia, mutta ei kaunein   |
+PowerPoint | Käyttöliittymän proto | paikallinen | Tulee paketin mukana, ei vaadi maksuja, vaatii hieman ohjelman tuntemusta,jotta saa siirtymätkin toteutettua. |
 
 ## Ohjelmointiympäristöt
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
