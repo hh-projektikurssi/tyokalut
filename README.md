@@ -13,6 +13,10 @@ Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/
 Teams   | Keskustelu, kokoukset, tiedostojen muokkaus   |   teams.microsoft.com   |   Video/äänikokoukset, tiedostojen jako ja muokkaus porukalla   |
 
 ## Kaaviotyökalut
+## Kommunikaatio
+Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
+------- | ------------------    | ------------------------------| ----------------------- |
+Lucidchart   | Tietokantakaaviot, muut kaaviot | https://www.lucidchart.com/| Ilmaisella accountilla voi tehdä vain muutaman kaavion    |
 
 ## Käyttöliittymämallinnus
 Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
