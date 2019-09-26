@@ -1,5 +1,13 @@
 # Projektiryhmien käyttämiä työkaluja
 
+- [Projektinhallinta](#projektinhallinta)
+- [Kommunikaatio](#kommunikaatio)
+- [Kaaviotyökalut](#kaaviotyokalut)
+- [Käyttöliittymämallinnus](#kayttoliittymamallinnus)
+- [Ohjelmointiympäristöt](#ohjelmointiymparistot)
+
+
+
 ## Projektinhallinta
 Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
 ------- | --------- | ------ | ------------|
@@ -17,4 +25,3 @@ Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/
 
 ## Ohjelmointiympäristöt
 
-## Testi
