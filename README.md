@@ -12,9 +12,10 @@ Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja
 Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/ | Erinomainen kanava työn ja keskustelujen organisoinnin kannalta    |
 
 ## Kaaviotyökalut
-Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   Helppo ja nopea oppia, mutta ei kaunein   |
+
 
 ## Käyttöliittymämallinnus
+Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   Helppo ja nopea oppia, mutta ei kaunein   |
 
 ## Ohjelmointiympäristöt
 
