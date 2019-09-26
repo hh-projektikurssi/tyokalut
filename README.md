@@ -2,9 +2,9 @@
 
 - [Projektinhallinta](#projektinhallinta)
 - [Kommunikaatio](#kommunikaatio)
-- [Kaaviotyökalut](#kaaviotyokalut)
-- [Käyttöliittymämallinnus](#kayttoliittymamallinnus)
-- [Ohjelmointiympäristöt](#ohjelmointiymparistot)
+- [Kaaviotyökalut](#kaaviotyökalut)
+- [Käyttöliittymämallinnus](#käyttöliittymämallinnus)
+- [Ohjelmointiympäristöt](#ohjelmointiympäristöt)
 
 
 
