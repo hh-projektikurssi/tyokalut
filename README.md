@@ -11,9 +11,9 @@
 ## Projektinhallinta
 Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
 ------- | --------- | ------ | ------------|
-GitHub | Versionhallinta, Sprint-boardit | https://github.com/ (Sprint-boardit: Repositorion yläosasta Projects) | Versionhallinnassa alan normi. Sprint-boardien osalta varsin alkeellinen, värikoodeihin kykenemätön työkalu, mutta automaatiomahdollisuudet ja integrointi versiohallinnan kanssa erinomaista  |
+GitHub | Versionhallinta, Sprint-boardit | https://github.com/ (Sprint-boardit: Repositorion yläosasta Projects) | Versionhallinnassa alan normi. Sprint-boardien osalta varsin alkeellinen, värikoodeihin kykenemätön työkalu, mutta automaatiomahdollisuudet ja integrointi versiohallinnan kanssa erinomaista  
+Planner | Sprint-board | login.microsoftonline.com | Tehtävien määrittäminen henkilöille, siirto henkilön omaan tauluun, värikoodit eri osille |
 Trello | Tiketit | https://trello.com/en | jee! |
-
 
 ## Kommunikaatio
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
