@@ -10,6 +10,7 @@ GitHub | Versionhallinta, Sprint-boardit | https://github.com/ (Sprint-boardit: 
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
 ------- | ------------------    | ------------------------------| ----------------------- |
 Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/ | Erinomainen kanava työn ja keskustelujen organisoinnin kannalta    |
+Teams   | Keskustelu, kokoukset, tiedostojen muokkaus   |   teams.microsoft.com   |   Video/äänikokoukset, tiedostojen jako ja muokkaus porukalla   |
 
 ## Kaaviotyökalut
 
