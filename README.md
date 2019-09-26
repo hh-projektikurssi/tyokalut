@@ -14,7 +14,9 @@ Slack   | Keskustelu, kokoukset(ei video/ääni) | https://slack.com/intl/en-fi/
 ## Kaaviotyökalut
 
 ## Käyttöliittymämallinnus
-
+Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
+------- | --------- | ------ | ------------|
+FluidUI|Käyttöliittymän protoilu|https://www.fluidui.com| OK työkalu käyttöliittymän protoiluun. Osa ominaisuuksista maksumuurin takana (esimerkiksi näkymien lataaminen omalle koneelle, voi ohittaa snippingtoolilla)
 ## Ohjelmointiympäristöt
 
 ## Testi
