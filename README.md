@@ -18,12 +18,14 @@ Teams   | Keskustelu, kokoukset, tiedostojen muokkaus   |   teams.microsoft.com 
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
 ------- | ------------------    | ------------------------------| ----------------------- |
 Lucidchart   | Tietokantakaaviot, muut kaaviot | https://www.lucidchart.com/| Ilmaisella accountilla voi tehdä vain muutaman kaavion   |
-Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   Helppo ja nopea oppia, mutta ei kaunein   |
 
 ## Käyttöliittymämallinnus
 Työkalu | Käyttötarkoitus | Linkki | Kommentteja |
 ------- | --------- | ------ | ------------|
 FluidUI|Käyttöliittymän protoilu|https://www.fluidui.com| OK työkalu käyttöliittymän protoiluun. Osa ominaisuuksista maksumuurin takana (esimerkiksi näkymien lataaminen omalle koneelle, voi ohittaa snippingtoolilla)
+
+Vectr   |   Käyttöliittymän proton tekeminen   |   https://vectr.com/   |   Helppo ja nopea oppia, mutta ei kaunein   |
+
 ## Ohjelmointiympäristöt
 Työkalu | Käyttötarkoitus       | Linkki                        | Kommentteja             |
 ------- | ------------------    | ------------------------------| ----------------------- |
